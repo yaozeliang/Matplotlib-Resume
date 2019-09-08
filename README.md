@@ -1,7 +1,7 @@
 # Matplotlib-Resume
 A self-conclusion after learning the package Matplotlib
 
-**Source: the channel of [Corey schafer](https://www.youtube.com/user/schafer5) on youtube**
+**Source: the channel of [Corey schafer](https://www.youtube.com/user/schafer5) on youtube**, strongly recommended
 
 
 1. Create the first line plot
