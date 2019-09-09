@@ -6,3 +6,4 @@ A self-conclusion after learning the package Matplotlib
 
 1. Create the first line plot
 2. Create the bar plot by using data from csv, with module collections.Counter and pandas, numpy
+3. Simple example of Pie chart
